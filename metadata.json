@@ -1,0 +1,6 @@
+{
+  "name": "Football Phonics Academy",
+  "description": "Interactive digital phonics learning platform and 2D football game for Year 1 ESL pupils, blending letter-sound practice, CVC word building, and football gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
